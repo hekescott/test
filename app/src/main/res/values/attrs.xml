@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <declare-styleable name="MessageDelLayout">
+            <attr name="leftMenuId" format="reference" />
+            <attr name="rightMenuId" format="reference" />
+            <attr name="contentId" format="reference" />
+        </declare-styleable>
+    </resources>
+
